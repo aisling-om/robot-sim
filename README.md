@@ -7,6 +7,8 @@ This project includes the following files:
 
 MIP_simulation.pdf : the documentation of the project. 6 pages, 8 figures. RevTex4-1. 
 
+EKF.py : sample code in Python doing an extended Kalman Filter on noisy data
+
 anim_step.avi : 16.7 MB video of the simulated MIP following a step trajectory based on noisy measurements
 
 anim_sin.avi:   16.7 MB video of the simulated MIP following a sine trajectory based on noisy measurements 
